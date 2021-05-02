@@ -11,4 +11,4 @@ for (num of test) {
   j++
 }
 
-console.log(result) 
+console.log(result.join(", "))
